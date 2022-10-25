@@ -799,7 +799,7 @@ NAV RESPONSIVE
     margin-top: .5rem;
 }
 .icon img{
-    width: 45px;
+    width: 35px;
 }
 .icon{
     transition: .5s all;
@@ -813,14 +813,18 @@ NAV RESPONSIVE
     gap: 40px;
     color: #fff;
 }
-
+.footer .contact a{
+    font-size: 30px;
+}
 .footer .logo h1 span{
     display: block;
-    font-size: 30px !important;
+    font-size: 25px !important;
 }
-
+.footer .logo h1{
+    font-size: 45px !important;
+}
 .btn-whatsapp img{
-    width: 65px;
+    width: 55px;
     height: auto;
     position: fixed;
     z-index: 9;
@@ -849,3 +853,11 @@ NAV RESPONSIVE
     }
 }
 
+
+.porta{
+    text-align: center;
+    margin-top: 20px;
+}
+.porta a{
+    font-size: 20px;
+}
